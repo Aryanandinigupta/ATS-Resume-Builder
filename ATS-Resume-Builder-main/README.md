@@ -130,6 +130,6 @@ Contributions are welcome! Please follow these steps:
 
 ## 📞 Contact
 
-- 👨‍💻 Developer: **Aditya Gupta**  
-- 📧 Email: adiapa746103gupta@gmail.com 
+- 👨‍💻 Developer: **Arya Nandini Gupta**  
+- 📧 Email: aryanandanigupta@gmail.com 
 
